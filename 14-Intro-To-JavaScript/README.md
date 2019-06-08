@@ -33,19 +33,3 @@ You can handle this... right? The planet Earth needs to know what we have found!
   3. `state`
   4. `country`
   5. `shape`
-
-- - -
-
-### Dataset
-
-* [UFO Sightings Data](StarterCode/static/js/data.js)
-
-- - -
-
-**Good luck!**
-
-- - -
-
-### Copyright
-
-Data Boot Camp © 2018. All Rights Reserved.

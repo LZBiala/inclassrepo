@@ -1,6 +1,5 @@
 # project1
 Repository for project 1.
-
 <br>
 Trends in Student Tuition and Enrollment
 <br>
